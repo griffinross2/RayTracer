@@ -1,0 +1,3 @@
+[submodule "IMGL"]
+	path = IMGL
+	url = https://github.com/griffinross2/IMGL.git
